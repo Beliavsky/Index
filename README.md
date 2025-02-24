@@ -1,6 +1,6 @@
 # GitHub Repositories for Beliavsky
-*Total repositories: 81 (excluding forks)*
-*Last updated: 2025-02-24T15:26:07.732556*
+*Total repositories: 80 (excluding forks)*
+*Last updated: 2025-02-24T15:35:37.033511*
 
 ## Repository List
 
@@ -24,7 +24,7 @@
 - [Desired_Fortran_software](https://github.com/Beliavsky/Desired_Fortran_software) - List of algorithms I'd like to see in modern Fortran
 - [DownloadArxivPapers](https://github.com/Beliavsky/DownloadArxivPapers) - Python scripts to download papers or references from arXiv by author and/or title
 - [EZUP](https://github.com/Beliavsky/EZUP) - August Miller's tool to convert Fortran fixed source form to free source form to be compatible with ELF90
-- [fastmatrix](https://github.com/Beliavsky/fastmatrix) - No description provided
+- [fastmatrix](https://github.com/Beliavsky/fastmatrix) - Code from R fastmatrix package by Felipe Osorio and Alonso Ogueda for "Fast Computation of some Matrices Useful in Statistics" 
 - [Finance-Deep-Research-Grok](https://github.com/Beliavsky/Finance-Deep-Research-Grok) - Grok results for deep research queries in finance
 - [Fit-Student-t-distribution](https://github.com/Beliavsky/Fit-Student-t-distribution) - Fit a Student t distribution to univariate data via maximum likelihood
 - [Formatted_output_speed](https://github.com/Beliavsky/Formatted_output_speed) - Compares the speed of formatted output of Fortran and C++
@@ -47,7 +47,6 @@
 - [FortranShell](https://github.com/Beliavsky/FortranShell) - Interactive console program in which to edit, compile, and run Fortran code using gfortran or another compiler
 - [FortranTip](https://github.com/Beliavsky/FortranTip) - Short instructional Fortran codes associated with Twitter @FortranTip
 - [GARCH](https://github.com/Beliavsky/GARCH) - Simulation and estimation of ARCH and GARCH processes, used to model the time-varying standard deviation (volatility) of asset returns, with conditional distributions such as the normal, Laplace, and Student t.
-- [Gaussian-Mixture-ARMA-GARCH](https://github.com/Beliavsky/Gaussian-Mixture-ARMA-GARCH) - No description provided
 - [gfortran_windows_compiled_libs](https://github.com/Beliavsky/gfortran_windows_compiled_libs) - Precompiled gfortran libraries (BLAS, LAPACK, etc.) for Windows using GNU Fortran
 - [Global_Optimization_Miller](https://github.com/Beliavsky/Global_Optimization_Miller) - Global optimization Fortran 95 code of Alan Miller, who translated a Fortran 77 code of Tibor Csendes
 - [Haskell_and_Fortran](https://github.com/Beliavsky/Haskell_and_Fortran) - Haskell and Fortran programs to solve the same problems
