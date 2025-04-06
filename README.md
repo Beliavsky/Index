@@ -1,6 +1,6 @@
 # GitHub Repositories for Beliavsky
-*Total repositories: 80 (excluding forks)*
-*Last updated: 2025-02-24T15:35:37.033511*
+*Total repositories: 100 (excluding forks)*
+*Last updated: 2025-04-06T08:04:44.267874*
 
 ## Repository List
 
@@ -8,6 +8,8 @@
 - [Alan-Miller-Fortran](https://github.com/Beliavsky/Alan-Miller-Fortran) - Classification of Alan Miller's Fortran codes for statistics and numerical methods
 - [antia_numerical_methods](https://github.com/Beliavsky/antia_numerical_methods) - Codes from "Numerical methods for scientists and engineers, 3rd ed." (2012), by H. M. Antia
 - [AutoregressiveStochasticVolatility](https://github.com/Beliavsky/AutoregressiveStochasticVolatility) - Simulate from and fit a discrete-time autoregressive log stochastic volatility model
+- [Basic-Stats](https://github.com/Beliavsky/Basic-Stats) - Basic descriptive statistics and non-uniform random deviates in Fortran
+- [beliavsky.github.io](https://github.com/Beliavsky/beliavsky.github.io) - Links to Fortran compilers, tools, and codes
 - [Black-Scholes](https://github.com/Beliavsky/Black-Scholes) - Black-Scholes option pricing formula in Fortran
 - [Burkardt-Fortran-90](https://github.com/Beliavsky/Burkardt-Fortran-90) - Classification of John Burkardt's many Fortran 90 codes
 - [Burkardt-Fortran-90-codes](https://github.com/Beliavsky/Burkardt-Fortran-90-codes) - John Burkardt's Fortran 90 codes and documentation
@@ -16,7 +18,7 @@
 - [CEF_and_ETF_data](https://github.com/Beliavsky/CEF_and_ETF_data) - R and Python scripts to get and format quotes for closed-end funds and exchange-traded funds
 - [ChangePoint](https://github.com/Beliavsky/ChangePoint) - Simulate a Gaussian time series with a change in the mean (changepoint) and identify it
 - [ChatGPT-Fortran-experiments](https://github.com/Beliavsky/ChatGPT-Fortran-experiments) - Experiments with ChatGPT to generate, find flaws in, or shorten Fortran code
-- [ChatGPT-Fortran-generator](https://github.com/Beliavsky/ChatGPT-Fortran-generator) - Python scripts to generate Fortran code by ChatGPT, compile it, correct errors, and run it
+- [ChatGPT-Fortran-generator](https://github.com/Beliavsky/ChatGPT-Fortran-generator) - Python scripts to generate Fortran code by ChatGPT, compile it, correct errors, and run it -- broken by API changes
 - [coarray_fortran_intel_tutorial](https://github.com/Beliavsky/coarray_fortran_intel_tutorial) - Examples from Intel Fortran coarray tutorial
 - [Computer-Methods-for-Mathematical-Computations](https://github.com/Beliavsky/Computer-Methods-for-Mathematical-Computations) - Code from the book of the same name by Forsythe, Malcolm, and Moler, translated to Fortran 90 by Ralph Carmichael
 - [cpp_stuff](https://github.com/Beliavsky/cpp_stuff) - short C++ codes for my learning
@@ -28,6 +30,7 @@
 - [Finance-Deep-Research-Grok](https://github.com/Beliavsky/Finance-Deep-Research-Grok) - Grok results for deep research queries in finance
 - [Fit-Student-t-distribution](https://github.com/Beliavsky/Fit-Student-t-distribution) - Fit a Student t distribution to univariate data via maximum likelihood
 - [Formatted_output_speed](https://github.com/Beliavsky/Formatted_output_speed) - Compares the speed of formatted output of Fortran and C++
+- [Fortran-articles](https://github.com/Beliavsky/Fortran-articles) - A place to store Fortran articles and tutorials
 - [Fortran-Best-Practices](https://github.com/Beliavsky/Fortran-Best-Practices) - Personal opinions on good Modern Fortran style. See fortran-lang.org for a community effort.
 - [Fortran-calling-C-for-IO](https://github.com/Beliavsky/Fortran-calling-C-for-IO) - speed comparison of Fortran internal read with Fortran calling C atoi() function
 - [Fortran-code-ex-GitHub](https://github.com/Beliavsky/Fortran-code-ex-GitHub) - Fortran codes not on GitHub
@@ -37,7 +40,8 @@
 - [Fortran-non-English-resources](https://github.com/Beliavsky/Fortran-non-English-resources) - Fortran resources not in English
 - [Fortran-packages-list](https://github.com/Beliavsky/Fortran-packages-list) - List of projects that can be built with the Fortran Package Manager
 - [Fortran-production-code-sites](https://github.com/Beliavsky/Fortran-production-code-sites) - Links to sites of Fortran production codes
-- [Fortran-related-books](https://github.com/Beliavsky/Fortran-related-books) - Books with Fortran code, other than textbooks
+- [Fortran-QuickSort](https://github.com/Beliavsky/Fortran-QuickSort) - Quicksort in Fortran via pure procedures
+- [Fortran-related-books](https://github.com/Beliavsky/Fortran-related-books) - Books with Fortran code, other than textbooks, listed by subject
 - [Fortran-Tools](https://github.com/Beliavsky/Fortran-Tools) - Links to Fortran compilers, preprocessors, formatters, static analyzers, transpilers, IDEs, build systems, etc.
 - [Fortran-tools-on-GitHub](https://github.com/Beliavsky/Fortran-tools-on-GitHub) - Fortran compilers, preprocessors, static analyzers, transpilers, IDEs, build systems, etc.
 - [Fortran-Windows-CMD-scripts](https://github.com/Beliavsky/Fortran-Windows-CMD-scripts) - Windows CMD scripts for Fortran programmers
@@ -46,22 +50,35 @@
 - [FortranCode](https://github.com/Beliavsky/FortranCode) - Various Fortran codes
 - [FortranShell](https://github.com/Beliavsky/FortranShell) - Interactive console program in which to edit, compile, and run Fortran code using gfortran or another compiler
 - [FortranTip](https://github.com/Beliavsky/FortranTip) - Short instructional Fortran codes associated with Twitter @FortranTip
+- [GAMS-Fortran](https://github.com/Beliavsky/GAMS-Fortran) - Cataloging math software in Fortran, aided by LLMs
 - [GARCH](https://github.com/Beliavsky/GARCH) - Simulation and estimation of ARCH and GARCH processes, used to model the time-varying standard deviation (volatility) of asset returns, with conditional distributions such as the normal, Laplace, and Student t.
+- [Gemini-Fortran-agent](https://github.com/Beliavsky/Gemini-Fortran-agent) - Python script that uses Gemini LLMs to create Fortran programs, iterating with compiler error messages until they compile
+- [GenHyp-cpp](https://github.com/Beliavsky/GenHyp-cpp) - Generalized hyperbolic distribution in C++
 - [gfortran_windows_compiled_libs](https://github.com/Beliavsky/gfortran_windows_compiled_libs) - Precompiled gfortran libraries (BLAS, LAPACK, etc.) for Windows using GNU Fortran
+- [Github-repo-metrics](https://github.com/Beliavsky/Github-repo-metrics) - Codes to analyze metrics of github repos, such as topic frequency
 - [Global_Optimization_Miller](https://github.com/Beliavsky/Global_Optimization_Miller) - Global optimization Fortran 95 code of Alan Miller, who translated a Fortran 77 code of Tibor Csendes
+- [Groq-cpp-agent](https://github.com/Beliavsky/Groq-cpp-agent) - Python script that uses LLMs on Groq to create C++ programs, iterating with compiler error messages until they compile
+- [Groq-Fortran-agent](https://github.com/Beliavsky/Groq-Fortran-agent) - Python script that uses LLMs on Groq to create Fortran programs, iterating with compiler error messages until they compile
+- [Groq-Python-agent](https://github.com/Beliavsky/Groq-Python-agent) - Python script that uses LLMs on Groq to create Python programs, iterating until they run to completion
 - [Haskell_and_Fortran](https://github.com/Beliavsky/Haskell_and_Fortran) - Haskell and Fortran programs to solve the same problems
+- [Hidden-Markov-Models](https://github.com/Beliavsky/Hidden-Markov-Models) - Simulate from Hidden Markov Models in Fortran
+- [Index](https://github.com/Beliavsky/Index) - Index of my projects
 - [Julia-vs.-Fortran-syntax](https://github.com/Beliavsky/Julia-vs.-Fortran-syntax) - Comparison of Julia and Fortran syntax
 - [Lapack_Miller_ELF90](https://github.com/Beliavsky/Lapack_Miller_ELF90) - Alan Miller's conversion of part of Lapack to ELF90, using his to_f90.f90 program
+- [LLM-chats](https://github.com/Beliavsky/LLM-chats) - Links to my LLM chats in econometrics and statistics, and programming
 - [LLM-Fortran-bugs](https://github.com/Beliavsky/LLM-Fortran-bugs) - Examples of invalid Fortran code by LLMs
-- [Matran](https://github.com/Beliavsky/Matran) - matrix wrapper for Fortran 95
+- [Matran](https://github.com/Beliavsky/Matran) - Matrix wrapper for Fortran 95 by G. W. Stewart
 - [Matrix_Inversion](https://github.com/Beliavsky/Matrix_Inversion) - Inversion of a real matrix and the solution of a set of linear equations using Crout's method
+- [Moving-Average-Crossover](https://github.com/Beliavsky/Moving-Average-Crossover) - Test moving average crossover trading systems for various moving average lengths for several assets in R and Fortran
 - [MultipleChangePoints](https://github.com/Beliavsky/MultipleChangePoints) - Simulate a Gaussian time series with several changes in the mean (changepoints) and identify them
 - [Multivariate-Normal-Random-Deviates](https://github.com/Beliavsky/Multivariate-Normal-Random-Deviates) - Generate multivariate normal random deviates in Fortran
 - [NormalMix1D](https://github.com/Beliavsky/NormalMix1D) - Fit a univariate mixture of normals to simulated data using the EM algorithm
 - [numerical-stuff](https://github.com/Beliavsky/numerical-stuff) - Numerical analysis resources
 - [NumPy-Fortran-ChatGPT-translation-tests](https://github.com/Beliavsky/NumPy-Fortran-ChatGPT-translation-tests) - tests of how well ChatGPT-4 can translate NumPy code to Fortran
+- [OpenAI-Fortran-agent](https://github.com/Beliavsky/OpenAI-Fortran-agent) - Python script that uses OpenAI LLMs to create Fortran programs, iterating with compiler error messages until they compile
 - [Optimization-Codes-by-ChatGPT](https://github.com/Beliavsky/Optimization-Codes-by-ChatGPT) - numerical optimization subroutines in Fortran generated by ChatGPT-4
 - [Polybench_Fortran_1.0](https://github.com/Beliavsky/Polybench_Fortran_1.0) - Mirror of Polybench/Fortran, a collection of benchmarks containing static control parts
+- [Python](https://github.com/Beliavsky/Python) - Various Python scripts
 - [Python-scripts-for-Fortran](https://github.com/Beliavsky/Python-scripts-for-Fortran) - Python scripts to analyze and reformat Fortran code
 - [PythonWindowsTools](https://github.com/Beliavsky/PythonWindowsTools) - Python scripts to analyze the Windows file system
 - [R-Finance-Task-View-Supplement](https://github.com/Beliavsky/R-Finance-Task-View-Supplement) - R Finance packages not listed in the Empirical Finance Task View
@@ -73,14 +90,17 @@
 - [Research-Articles-Using-Fortran](https://github.com/Beliavsky/Research-Articles-Using-Fortran) - List of recent research articles using Fortran
 - [RetirementSpending](https://github.com/Beliavsky/RetirementSpending) - Fortran simulation of spending rules in retirement
 - [Scientific-programming-speed-comparisons](https://github.com/Beliavsky/Scientific-programming-speed-comparisons) - Links to speed comparisons of languages used in scientific omputing
+- [Scientific-Subroutine-Package](https://github.com/Beliavsky/Scientific-Subroutine-Package) - No description provided
 - [Sobol_sequence](https://github.com/Beliavsky/Sobol_sequence) - experiment with the quasi-random Sobol sequence
 - [Standard-Deviation-Estimators](https://github.com/Beliavsky/Standard-Deviation-Estimators) - simulate some estimators of the standard deviation
 - [STARPAC](https://github.com/Beliavsky/STARPAC) - Standards Time Series and Regression Package, a library of Fortran subroutines for statistical data analysis developed by the Statistical Engineering Division of the National Institute of Standards and Technology
 - [Statistics-in-Fortran](https://github.com/Beliavsky/Statistics-in-Fortran) - Statistical procedures in Fortran
+- [Statistics-library](https://github.com/Beliavsky/Statistics-library) - Statistics library
 - [stdlib_ideas](https://github.com/Beliavsky/stdlib_ideas) - Ideas and codes related to the Fortran Standard Library project stdlib
-- [Stock-Returns](https://github.com/Beliavsky/Stock-Returns) - Get historical daily prices from Yahoo Finance using R for specified stock symbols, compute returns, and analyze them
+- [test_fpm](https://github.com/Beliavsky/test_fpm) - Personal project to experiment with the Fortran Package Manager
 - [TimeSeriesAnalysis](https://github.com/Beliavsky/TimeSeriesAnalysis) - R scripts for time series analysis using the MTS package
 - [TimeSeriesAnalysisBooks](https://github.com/Beliavsky/TimeSeriesAnalysisBooks) - List of books on time series analysis, with links to code where available
 - [Timeslab](https://github.com/Beliavsky/Timeslab) - Mirror of Timeslab Fortran 77 time series package by H. Joseph Newton
 - [Watch](https://github.com/Beliavsky/Watch) - Compute and display the CPU and wall time elapsed at break points in a Fortran program
+- [Windows-CMD-scripts](https://github.com/Beliavsky/Windows-CMD-scripts) - Windows CMD batch scripts
 - [Ziggurat](https://github.com/Beliavsky/Ziggurat) - generate uniform, normal, and exponential random deviates using algorithms from Marsaglia
