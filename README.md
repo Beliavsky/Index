@@ -81,6 +81,7 @@
 - [Python](https://github.com/Beliavsky/Python) - Various Python scripts
 - [Python-scripts-for-Fortran](https://github.com/Beliavsky/Python-scripts-for-Fortran) - Python scripts to analyze and reformat Fortran code
 - [PythonWindowsTools](https://github.com/Beliavsky/PythonWindowsTools) - Python scripts to analyze the Windows file system
+- [QuadProg-gfortran-windows](https://github.com/Beliavsky/QuadProg-gfortran-windows) - Version of QuadProg that works with gfortran on Windows
 - [R-Finance-Task-View-Supplement](https://github.com/Beliavsky/R-Finance-Task-View-Supplement) - R Finance packages not listed in the Empirical Finance Task View
 - [R-packages-with-Fortran-code](https://github.com/Beliavsky/R-packages-with-Fortran-code) - List of R packages with Fortran code
 - [R-Time-Series-Task-View-Supplement](https://github.com/Beliavsky/R-Time-Series-Task-View-Supplement) - R Time series packages not included in CRAN Task View: Time Series Analysis
