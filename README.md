@@ -52,6 +52,7 @@
 - [FortranTip](https://github.com/Beliavsky/FortranTip) - Short instructional Fortran codes associated with Twitter @FortranTip
 - [GAMS-Fortran](https://github.com/Beliavsky/GAMS-Fortran) - Cataloging math software in Fortran, aided by LLMs
 - [GARCH](https://github.com/Beliavsky/GARCH) - Simulation and estimation of ARCH and GARCH processes, used to model the time-varying standard deviation (volatility) of asset returns, with conditional distributions such as the normal, Laplace, and Student t.
+- [GARCH-BHHH](https://github.com/Beliavsky/GARCH-BHHH): Estimate GARCH models using the BHHH algorithm
 - [Gemini-Fortran-agent](https://github.com/Beliavsky/Gemini-Fortran-agent) - Python script that uses Gemini LLMs to create Fortran programs, iterating with compiler error messages until they compile
 - [GenHyp-cpp](https://github.com/Beliavsky/GenHyp-cpp) - Generalized hyperbolic distribution in C++
 - [gfortran_windows_compiled_libs](https://github.com/Beliavsky/gfortran_windows_compiled_libs) - Precompiled gfortran libraries (BLAS, LAPACK, etc.) for Windows using GNU Fortran
