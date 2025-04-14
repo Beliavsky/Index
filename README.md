@@ -70,6 +70,7 @@
 - [LLM-Fortran-bugs](https://github.com/Beliavsky/LLM-Fortran-bugs) - Examples of invalid Fortran code by LLMs
 - [Matran](https://github.com/Beliavsky/Matran) - Matrix wrapper for Fortran 95 by G. W. Stewart
 - [Matrix_Inversion](https://github.com/Beliavsky/Matrix_Inversion) - Inversion of a real matrix and the solution of a set of linear equations using Crout's method
+- [Mixture-of-Normals-Estimation](https://github.com/Beliavsky/Mixture-of-Normals-Estimation) - Estimate a univariate mixture of normals distribution using moments and the EM algorithm
 - [Moving-Average-Crossover](https://github.com/Beliavsky/Moving-Average-Crossover) - Test moving average crossover trading systems for various moving average lengths for several assets in R and Fortran
 - [MultipleChangePoints](https://github.com/Beliavsky/MultipleChangePoints) - Simulate a Gaussian time series with several changes in the mean (changepoints) and identify them
 - [Multivariate-Normal-Random-Deviates](https://github.com/Beliavsky/Multivariate-Normal-Random-Deviates) - Generate multivariate normal random deviates in Fortran
