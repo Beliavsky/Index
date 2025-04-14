@@ -1,6 +1,4 @@
 # GitHub Repositories for Beliavsky
-*Total repositories: 100 (excluding forks)*
-*Last updated: 2025-04-06T08:04:44.267874*
 
 ## Repository List
 
@@ -26,6 +24,7 @@
 - [Desired_Fortran_software](https://github.com/Beliavsky/Desired_Fortran_software) - List of algorithms I'd like to see in modern Fortran
 - [DownloadArxivPapers](https://github.com/Beliavsky/DownloadArxivPapers) - Python scripts to download papers or references from arXiv by author and/or title
 - [EZUP](https://github.com/Beliavsky/EZUP) - August Miller's tool to convert Fortran fixed source form to free source form to be compatible with ELF90
+- [f2cpp](https://github.com/Beliavsky/f2cpp) - Partial Fortran to C++ translator in Python
 - [fastmatrix](https://github.com/Beliavsky/fastmatrix) - Code from R fastmatrix package by Felipe Osorio and Alonso Ogueda for "Fast Computation of some Matrices Useful in Statistics" 
 - [Finance-Deep-Research-Grok](https://github.com/Beliavsky/Finance-Deep-Research-Grok) - Grok results for deep research queries in finance
 - [Fit-Student-t-distribution](https://github.com/Beliavsky/Fit-Student-t-distribution) - Fit a Student t distribution to univariate data via maximum likelihood
