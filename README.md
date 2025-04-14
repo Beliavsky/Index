@@ -48,6 +48,7 @@
 - [Fortran_FAQ](https://github.com/Beliavsky/Fortran_FAQ) - originally the comp.lang.fortran FAQ from January 1997 by Keith Bierman
 - [FortranCode](https://github.com/Beliavsky/FortranCode) - Various Fortran codes
 - [FortranShell](https://github.com/Beliavsky/FortranShell) - Interactive console program in which to edit, compile, and run Fortran code using gfortran or another compiler
+- [Fortran-stuff](https://github.com/Beliavsky/Fortran-stuff) - Various Fortran modules
 - [FortranTip](https://github.com/Beliavsky/FortranTip) - Short instructional Fortran codes associated with Twitter @FortranTip
 - [GAMS-Fortran](https://github.com/Beliavsky/GAMS-Fortran) - Cataloging math software in Fortran, aided by LLMs
 - [GARCH](https://github.com/Beliavsky/GARCH) - Simulation and estimation of ARCH and GARCH processes, used to model the time-varying standard deviation (volatility) of asset returns, with conditional distributions such as the normal, Laplace, and Student t.
